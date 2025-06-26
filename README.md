@@ -19,5 +19,3 @@ To help local shop owners like my mother track digital payments without needing 
 - Basic speech and file components
 
 ## 📂 Files Included
-- `PhonePeTracker.aia` – App Inventor project file
-- `screenshots/` – App design and blocks# SmartShopAPP
